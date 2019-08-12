@@ -1,3 +1,5 @@
+Place the dataset in the same directory as app.py file
+
 Install the requirements: pip install -r requirements.txt
 
 Certain packages like dash were installed from pypi as they were not available in conda environment.
